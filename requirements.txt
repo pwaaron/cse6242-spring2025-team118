@@ -1,1 +1,6 @@
 streamlit
+rdflib
+streamlit_agraph
+scikit-learn
+scipy
+streamlit-extras
